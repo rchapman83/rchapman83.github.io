@@ -1,2 +1,2 @@
 # rchapman83.github.io
-A directory listing of my various projects - www.rnchapman.directory
+A directory listing of my various projects - https://www.rnchapman.directory
