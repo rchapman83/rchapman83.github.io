@@ -5,16 +5,7 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://www.rnchapman.directory</loc>
-  <lastmod>2018-04-03T18:15:40+00:00</lastmod>
-  <news:news>
-     <news:publication>
-       <news:name>RNCHAPMAN Directory</news:name>
-       <news:language>en</news:language>
-     </news:publication>
-     <news:genres>Directory Listing</news:genres>
-     <news:publication_date>2018-04-03</news:publication_date>
-     <news:title>RNCHAPMAN Directory</news:title>
-     <news:keywords>Rowan, Chapman, Rowan Chapman, rnchapman directory, created by rnchapman</news:keywords>
-   </news:news>
+  <lastmod>2019-04-0T18:15:40+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 </urlset>
